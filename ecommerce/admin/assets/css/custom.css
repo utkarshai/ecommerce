@@ -1,0 +1,27 @@
+.login-box{
+width:50%;
+background:#F5F5F5;
+border:1px dotted grey;
+margin:auto!important;
+padding:15px;
+}
+.email{
+	background:yellow;
+}
+.center-box{
+	width:60%;
+	background:#F5F5F5;
+	border:1px dotted grey;
+	margin:auto!important;
+	padding:15px;
+}
+.admin-txt-heading{
+	margin:auto;
+	padding-left:200px;
+}
+.table img{
+	padding:20px 50px;
+}
+.page-content table tr td{
+	width:20%;
+}
